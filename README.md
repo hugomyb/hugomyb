@@ -10,7 +10,7 @@
     </div>
 </div>
 
-Im a Laravel Developer from France 🇫🇷
+Im a French Laravel Developer 🇫🇷
 
 <br>
 
