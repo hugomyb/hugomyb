@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hugomyb.visitor-badge" />
+
 <div id="header" align="center">
     <h1>Hello ! 👋</h1>
     <div id="badges">
