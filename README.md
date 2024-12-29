@@ -1,15 +1,16 @@
 <img align="right" src="(https://visitor-badge.laobi.icu/badge?page_id=hugomyb.hugomyb" />
 
-<div id="header" align="center">
-    <h1>Hello ! 👋</h1>
-    <div id="badges">
-      <a href="https://fr.linkedin.com/in/hugo-mayonobe" target="_blank">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Caleb+!;" />
+</h1>
+
+<div id="badges" align="center">
+    <a href="https://fr.linkedin.com/in/hugo-mayonobe" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="https://twitter.com/hugo_mynb" target="_blank">
+    </a>
+    <a href="https://twitter.com/hugo_mynb" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-      </a>
-    </div>
+    </a>
 </div>
 
 Im a French Laravel Developer 🇫🇷
