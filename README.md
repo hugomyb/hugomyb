@@ -16,10 +16,12 @@
 Im a French Laravel Developer 🇫🇷
 
 <br>
-
+<!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hugomyb&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomyb&layout=compact&theme=github_dark" />
 </a>
+-->
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&fontFamily=Tilt%20Warp&preferLogin=true">    <img  alt="hugomyb's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/hugomyb?cardType=level-alternate&theme=react&fontFamily=Tilt%20Warp&preferLogin=true" />  </a>
