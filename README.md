@@ -32,7 +32,7 @@ release the reusable parts as open-source packages — a few of them now run in 
 I will never see.
 
 - Building **[Lume](https://github.com/hugomyb/Lume)** — a fast, local-first terminal in Rust + Tauri
-- Maintaining **Filament** plugins, together past **230k** installs on Packagist
+- Maintaining **Filament** plugins, together past **300k** installs on Packagist
 - Currently curious about audio DSP: writing a VST3 vocal chain in C++/JUCE
 
 ---
