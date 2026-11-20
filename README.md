@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=540&height=45&lines=Laravel+%2B+Filament+craftsman;Open-source+package+author;230k%2B+downloads+on+Packagist;Rust+%26+Tauri+on+the+side" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=540&height=45&lines=Laravel+%2B+Filament+craftsman;Open-source+package+author;300k%2B+downloads+on+Packagist;Rust+%26+Tauri+on+the+side" alt="typing" />
 </p>
 
 <p align="center">
